@@ -1,2 +1,3 @@
-# crop_price
+# AI tutor
 repo
+Author - Neha Bitla 
